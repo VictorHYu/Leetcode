@@ -13,3 +13,7 @@ Personal repository for solutions to [Leetcode](https://leetcode.com) problems.
 
 #### 06/11/2019
 [#41: First-Missing-Positive](https://leetcode.com/problems/first-missing-positive/) - [Solution](./Hard/first_missing_positive.cc)
+
+[#8: String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) - [Solution](./Medium/string_to_integer.cc)
+
+[#7: Reverse Integer](https://leetcode.com/problems/reverse-integer/) - [Solution](./Easy/reverse_integer.cc)
