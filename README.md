@@ -10,3 +10,6 @@ Personal repository for solutions to [Leetcode](https://leetcode.com) problems.
 [#2: Add-Two-Numbers](https://leetcode.com/problems/add-two-numbers/) - [Solution](./Medium/add_two_numbers.go)
 
 [#3: Longest-Substring-Without-Repeating-Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - [Solution](./Medium/longest_substring_without_repeating_characters.go)
+
+#### 06/11/2019
+[#41: First-Missing-Positive](https://leetcode.com/problems/first-missing-positive/) - [Solution](./Hard/first_missing_positive.cc)
